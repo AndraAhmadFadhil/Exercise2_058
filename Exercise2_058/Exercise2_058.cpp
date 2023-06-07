@@ -58,4 +58,5 @@ int main() {
 	bidangDatar Bujursangkar;
 	Bujursangkar.setX(int a);
 	cout << Bujursangkar.getX();
+
 }
